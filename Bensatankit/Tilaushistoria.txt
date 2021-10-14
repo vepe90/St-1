@@ -1,0 +1,375 @@
+Tue Oct 12 20:37:27 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Tilattu tankki täyteen!
+
+Wed Oct 13 16:40:33 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 16:42:54 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 1000 litraa.
+
+Wed Oct 13 16:43:30 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 16:45:45 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 16:48:33 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:21:29 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:22:38 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:26:52 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:27:27 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 5000 litraa.
+
+Wed Oct 13 17:27:38 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:28:47 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:29:59 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 20000 litraa.
+
+Wed Oct 13 17:46:16 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 10000 litraa.
+
+Wed Oct 13 17:48:53 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 800 litraa.
+
+Wed Oct 13 17:50:14 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:50:16 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:50:22 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:51:20 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:51:38 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 1000 litraa.
+
+Wed Oct 13 17:51:43 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 100 litraa.
+
+Wed Oct 13 17:51:46 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 100 litraa.
+
+Wed Oct 13 17:51:49 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 100 litraa.
+
+Wed Oct 13 17:51:53 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 200 litraa.
+
+Wed Oct 13 17:52:05 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 200 litraa.
+
+Wed Oct 13 17:52:09 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 100 litraa.
+
+Wed Oct 13 17:53:12 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:53:20 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 3000 litraa.
+
+Wed Oct 13 17:53:26 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 4000 litraa.
+
+Wed Oct 13 17:54:03 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 17:59:31 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:07:44 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:10:31 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 1000 litraa.
+
+Wed Oct 13 18:10:55 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:11:00 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:11:12 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:11:15 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:12:24 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:13:19 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:13:31 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 1000 litraa.
+
+Wed Oct 13 18:13:44 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:13:51 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 3000 litraa.
+
+Wed Oct 13 18:14:46 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 1000 litraa.
+
+Wed Oct 13 18:14:50 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 3000 litraa.
+
+Wed Oct 13 18:46:39 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 100 litraa.
+
+Wed Oct 13 18:47:42 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 20 litraa.
+
+Wed Oct 13 18:51:37 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Tilattu tankki täyteen!
+
+Wed Oct 13 18:51:39 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Tilattu tankki täyteen!
+
+Wed Oct 13 18:51:40 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Tilattu tankki täyteen!
+
+Wed Oct 13 18:52:09 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 18:52:58 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 10000 litraa.
+
+Wed Oct 13 18:57:37 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 1000 litraa.
+
+Wed Oct 13 19:26:22 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 19:26:35 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Tilattu tankki täyteen!
+
+Wed Oct 13 20:23:11 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 8000 litraa.
+
+Wed Oct 13 20:26:05 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Tilattu tankki täyteen!
+
+Wed Oct 13 20:47:43 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 20:47:49 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 20:47:54 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 2000 litraa.
+
+Wed Oct 13 22:43:53 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Tilattu tankki täyteen!
+
+Wed Oct 13 22:43:54 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Tilattu tankki täyteen!
+
+Wed Oct 13 22:43:56 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Tilattu tankki täyteen!
+
+Wed Oct 13 22:47:14 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Tilattu tankki täyteen!
+
+Wed Oct 13 22:50:11 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Tilattu tankki täyteen!
+
+Thu Oct 14 06:59:25 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Thu Oct 14 06:59:33 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 2000 litraa.
+
+Thu Oct 14 06:59:41 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 6000 litraa.
+
+Thu Oct 14 06:59:47 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 9000 litraa.
+
+Thu Oct 14 13:28:23 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 5000 litraa.
+
+Thu Oct 14 13:30:30 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 255 litraa.
+
+Thu Oct 14 13:32:08 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 266 litraa.
+
+Thu Oct 14 13:32:12 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 666 litraa.
+
+Thu Oct 14 13:32:49 EEST 2021
+TILATTU
+Valittu laatu: 95E 
+Valittu määrä: 23 litraa.
+
+Thu Oct 14 13:32:52 EEST 2021
+TILATTU
+Valittu laatu: 98E 
+Valittu määrä: 36 litraa.
+
+Thu Oct 14 13:32:55 EEST 2021
+TILATTU
+Valittu laatu: DIESEL 
+Valittu määrä: 39 litraa.
+
